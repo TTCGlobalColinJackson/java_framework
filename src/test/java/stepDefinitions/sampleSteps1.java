@@ -12,9 +12,9 @@ import views.TTCHomepage;
 import static helpers.GlobalValues.GoogleHomepageURL;
 import static helpers.GlobalValues.TTCHomepageURL;
 
-public class sampleSteps {
+public class sampleSteps1 {
 
-    private static final Category log = Logger.getLogger(sampleSteps.class);
+    private static final Category log = Logger.getLogger(sampleSteps1.class);
 
     @Given("I am on the Google homepage")
     public void iAmOnTheGoogleHomepage() {

@@ -9,9 +9,9 @@ import views.BBCHomepage;
 
 import static helpers.GlobalValues.BBCHomepageURL;
 
-public class moreSampleSteps {
+public class sampleSteps2 {
 
-    private static final Category log = Logger.getLogger(moreSampleSteps.class);
+    private static final Category log = Logger.getLogger(sampleSteps2.class);
 
     @When("I open the BBC website")
     public void iOpenTheBBCWebsite() {
