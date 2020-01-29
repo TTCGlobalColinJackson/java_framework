@@ -3,6 +3,8 @@
 
 This template project incorporates several features comprising a basic working Java-Selium test framework.
 
+    JUnit - for unit testing
+
     Maven - for project management
 
     Java - base language
